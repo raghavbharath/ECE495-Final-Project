@@ -1,0 +1,6 @@
+library ieee; use ieee.std_logic_1164.all;
+library lpm; use lpm.lpm_components.all;
+
+
+entity lab7part3 is 
+	port()

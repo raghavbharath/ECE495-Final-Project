@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -6.088
+TNS   : -247.948
+
+Type  : Slow 1200mV 85C Model Setup 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -1.118
+TNS   : -6.886
+
+Type  : Slow 1200mV 85C Model Setup 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : -0.320
+TNS   : -0.922
+
+Type  : Slow 1200mV 85C Model Hold 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -2.692
+TNS   : -21.536
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : -1.125
+TNS   : -6.365
+
+Type  : Slow 1200mV 85C Model Hold 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : -0.048
+TNS   : -0.090
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -173.685
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -5.325
+TNS   : -214.080
+
+Type  : Slow 1200mV 0C Model Setup 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -0.901
+TNS   : -5.352
+
+Type  : Slow 1200mV 0C Model Setup 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : -0.416
+TNS   : -1.356
+
+Type  : Slow 1200mV 0C Model Hold 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -2.418
+TNS   : -19.344
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -1.073
+TNS   : -6.139
+
+Type  : Slow 1200mV 0C Model Hold 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -171.925
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -1.285
+TNS   : -10.280
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -3.052
+TNS   : -86.406
+
+Type  : Fast 1200mV 0C Model Setup 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -0.038
+TNS   : -0.072
+
+Type  : Fast 1200mV 0C Model Setup 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -1.455
+TNS   : -11.640
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.532
+TNS   : -3.036
+
+Type  : Fast 1200mV 0C Model Hold 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : -0.156
+TNS   : -0.694
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -104.028
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[21]'
+Slack : -1.000
+TNS   : -8.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'f25lab7_useq:USeq|lpm_rom:uROM|altrom:srom|altsyncram:rom_block|altsyncram_qsv:auto_generated|q_a[12]'
+Slack : 0.373
+TNS   : 0.000
+
+------------------------------------------------------------
