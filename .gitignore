@@ -1,0 +1,15 @@
+# Quartus databases
+db/
+incremental_db/
+
+# Quartus output
+output_files/
+simulation/
+
+# Quartus temporary / backup
+*.bak
+*.rpt
+*.chg
+*.htm
+*.eqn
+*.summary
